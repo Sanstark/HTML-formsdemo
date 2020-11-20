@@ -1,4 +1,3 @@
-# FormInputField_HTML
 
 This repository has three directories, each for css, javascript and html page.
 css styling has been done using "@media"  query.
